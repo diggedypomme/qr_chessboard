@@ -16,3 +16,5 @@ This will generate an image for each of your links and add them to a chessboard,
 Note that the qrs are rotated 90 degrees, but this shouldn't be an issue
 The temporary individual QR images are stored in the output_qr folder/
 The chessboard.png will be outputted to the main folder
+
+Created as a tool for a present I'm working on. Own code mixed with having a play with ChatGPT.
