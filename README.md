@@ -10,4 +10,7 @@ Generator for a chessboard made with QR images from a list of links
 -    run "generate_chessboard.py"
 
 This will generate an image for each of your links and add them to a chessboard, for example:
+
 ![](chessboard.png)
+
+Note that the qrs are rotated 90 degrees, but this shouldn't be an issue
